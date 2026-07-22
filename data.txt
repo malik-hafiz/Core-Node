@@ -1,0 +1,2 @@
+undefined
+data=hafiz&data2=rashid
